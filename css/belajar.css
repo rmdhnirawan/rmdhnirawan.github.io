@@ -1,0 +1,14 @@
+.warnaijo {
+	color: green;
+}
+
+.kotakijo {
+	width: 200px;
+	height: 100px;
+	background-color: green;
+}
+
+.kotakijo:hover {
+	background-color: blue;
+	font-family : Arial ;
+}
